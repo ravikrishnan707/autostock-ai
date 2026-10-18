@@ -1,0 +1,102 @@
+part_id,part_name,warehouse,supplier,stock,daily_demand,lead_time_days,unit_cost,days_remaining,stockout_risk
+P001,Brake Pad,Chennai,Supplier_E,38,22,5,3425.84,1.73,HIGH
+P002,Oil Filter,Pune,Supplier_B,36,25,11,6386.64,1.44,HIGH
+P003,Air Filter,Bengaluru,Supplier_D,33,2,10,9070.08,16.5,LOW
+P004,Fuel Filter,Pune,Supplier_G,60,19,5,6793.21,3.16,MEDIUM
+P005,Spark Plug,Chennai,Supplier_C,217,10,13,6396.95,21.7,LOW
+P006,Ignition Coil,Bengaluru,Supplier_F,49,10,3,1481.91,4.9,MEDIUM
+P007,Wheel Bearing,Hyderabad,Supplier_J,101,5,6,12126.21,20.2,LOW
+P008,Clutch Plate,Pune,Supplier_B,127,25,8,1274.12,5.08,MEDIUM
+P009,Clutch Cable,Pune,Supplier_F,222,11,11,2965.1,20.18,LOW
+P010,Radiator,Bengaluru,Supplier_E,21,4,3,12844.23,5.25,MEDIUM
+P011,Radiator Fan,Hyderabad,Supplier_H,107,5,12,12528.25,21.4,LOW
+P012,Water Pump,Hyderabad,Supplier_D,104,7,12,4077.97,14.86,LOW
+P013,Engine Mount,Chennai,Supplier_J,175,23,12,2649.97,7.61,LOW
+P014,Shock Absorber,Bengaluru,Supplier_H,72,25,8,4122.22,2.88,HIGH
+P015,Suspension Ball Joint,Pune,Supplier_D,186,22,12,4931.81,8.45,LOW
+P016,Tie Rod End,Chennai,Supplier_F,68,3,8,4089.34,22.67,LOW
+P017,Steering Rack,Pune,Supplier_F,243,8,5,9866.04,30.38,LOW
+P018,Control Arm,Coimbatore,Supplier_C,236,14,6,2180.49,16.86,LOW
+P019,Drive Belt,Pune,Supplier_E,153,25,13,8810.33,6.12,MEDIUM
+P020,Timing Belt,Hyderabad,Supplier_D,112,20,4,7691.94,5.6,MEDIUM
+P021,Alternator,Chennai,Supplier_B,203,4,4,9448.95,50.75,LOW
+P022,Starter Motor,Pune,Supplier_B,118,23,8,5786.13,5.13,MEDIUM
+P023,Battery,Hyderabad,Supplier_I,145,16,2,10236.22,9.06,LOW
+P024,Headlight Assembly,Pune,Supplier_E,184,5,14,9650.33,36.8,LOW
+P025,Tail Light,Coimbatore,Supplier_C,85,5,9,148.36,17.0,LOW
+P026,Fog Lamp,Hyderabad,Supplier_I,234,25,14,2761.91,9.36,LOW
+P027,Windshield Wiper,Hyderabad,Supplier_I,232,5,11,3063.78,46.4,LOW
+P028,Wiper Motor,Bengaluru,Supplier_I,205,13,14,13844.27,15.77,LOW
+P029,Side Mirror,Hyderabad,Supplier_H,163,2,2,1766.83,81.5,LOW
+P030,Door Handle,Hyderabad,Supplier_D,234,13,2,3688.99,18.0,LOW
+P031,Power Window Motor,Chennai,Supplier_H,30,20,3,14671.97,1.5,HIGH
+P032,Window Regulator,Bengaluru,Supplier_C,206,19,12,7181.71,10.84,LOW
+P033,Door Lock,Hyderabad,Supplier_I,52,19,11,6404.76,2.74,HIGH
+P034,Bumper,Pune,Supplier_D,247,8,13,4744.57,30.88,LOW
+P035,Grille,Hyderabad,Supplier_H,176,23,10,6827.14,7.65,LOW
+P036,Engine Gasket,Chennai,Supplier_F,67,9,2,8865.8,7.44,LOW
+P037,Cylinder Head,Bengaluru,Supplier_A,160,9,3,10646.83,17.78,LOW
+P038,Piston Ring,Chennai,Supplier_A,68,3,7,1155.77,22.67,LOW
+P039,Fuel Injector,Coimbatore,Supplier_D,81,9,10,2071.45,9.0,LOW
+P040,Throttle Body,Coimbatore,Supplier_D,157,20,14,7147.3,7.85,LOW
+P041,Oxygen Sensor,Chennai,Supplier_B,58,15,12,6522.66,3.87,MEDIUM
+P042,Air Flow Sensor,Coimbatore,Supplier_A,115,15,12,9836.49,7.67,LOW
+P043,ABS Sensor,Chennai,Supplier_G,35,22,13,5155.61,1.59,HIGH
+P044,Brake Disc,Bengaluru,Supplier_D,73,5,10,6784.34,14.6,LOW
+P045,Brake Caliper,Hyderabad,Supplier_H,56,15,5,13129.84,3.73,MEDIUM
+P046,Brake Shoe,Pune,Supplier_B,123,4,2,9816.96,30.75,LOW
+P047,Master Cylinder,Chennai,Supplier_B,224,19,14,12745.57,11.79,LOW
+P048,Wheel Cylinder,Coimbatore,Supplier_H,114,7,5,12983.29,16.29,LOW
+P049,Brake Hose,Coimbatore,Supplier_A,52,3,8,4051.53,17.33,LOW
+P050,Handbrake Cable,Coimbatore,Supplier_I,83,16,12,10804.28,5.19,MEDIUM
+P051,Gearbox Mount,Hyderabad,Supplier_D,58,6,2,8729.79,9.67,LOW
+P052,Transmission Filter,Hyderabad,Supplier_A,25,19,2,8804.25,1.32,HIGH
+P053,CV Joint,Pune,Supplier_C,245,18,2,14415.61,13.61,LOW
+P054,Drive Shaft,Bengaluru,Supplier_B,227,4,11,1112.62,56.75,LOW
+P055,Axle Shaft,Chennai,Supplier_J,113,9,5,8725.89,12.56,LOW
+P056,Differential Gear,Chennai,Supplier_G,168,3,12,8796.72,56.0,LOW
+P057,Gear Lever,Hyderabad,Supplier_D,90,18,12,10771.26,5.0,MEDIUM
+P058,Gear Cable,Coimbatore,Supplier_C,77,9,12,9717.96,8.56,LOW
+P059,Exhaust Pipe,Chennai,Supplier_A,90,16,9,9355.27,5.62,MEDIUM
+P060,Catalytic Converter,Chennai,Supplier_I,35,20,5,7637.68,1.75,HIGH
+P061,Muffler,Hyderabad,Supplier_B,248,6,5,5605.95,41.33,LOW
+P062,AC Compressor,Pune,Supplier_E,122,7,11,14759.41,17.43,LOW
+P063,AC Condenser,Chennai,Supplier_I,145,22,6,13983.16,6.59,MEDIUM
+P064,AC Filter,Bengaluru,Supplier_E,250,5,3,13356.72,50.0,LOW
+P065,Blower Motor,Bengaluru,Supplier_E,151,25,6,9111.96,6.04,MEDIUM
+P066,Thermostat,Bengaluru,Supplier_E,97,24,10,7379.12,4.04,MEDIUM
+P067,Coolant Hose,Coimbatore,Supplier_E,33,3,2,152.83,11.0,LOW
+P068,Engine Oil Pump,Hyderabad,Supplier_C,173,6,13,6683.35,28.83,LOW
+P069,Oil Pan,Pune,Supplier_A,119,24,3,1221.13,4.96,MEDIUM
+P070,Oil Seal,Bengaluru,Supplier_I,241,24,2,12535.47,10.04,LOW
+P071,Valve Cover,Bengaluru,Supplier_G,151,20,4,723.25,7.55,LOW
+P072,Intake Manifold,Chennai,Supplier_F,240,13,5,10262.79,18.46,LOW
+P073,Exhaust Manifold,Hyderabad,Supplier_I,36,23,8,14610.17,1.57,HIGH
+P074,Turbocharger,Bengaluru,Supplier_C,49,25,14,12180.5,1.96,HIGH
+P075,Intercooler,Bengaluru,Supplier_F,16,15,14,13969.16,1.07,HIGH
+P076,Diesel Injector,Bengaluru,Supplier_E,231,23,4,11831.88,10.04,LOW
+P077,Glow Plug,Chennai,Supplier_H,107,5,5,3073.64,21.4,LOW
+P078,Power Steering Pump,Hyderabad,Supplier_D,99,16,5,452.6,6.19,MEDIUM
+P079,Steering Column,Hyderabad,Supplier_E,112,8,3,14506.65,14.0,LOW
+P080,Horn,Pune,Supplier_G,99,10,12,14719.13,9.9,LOW
+P081,Relay,Chennai,Supplier_B,94,19,6,2760.66,4.95,MEDIUM
+P082,Fuse Box,Chennai,Supplier_J,19,10,8,5250.74,1.9,HIGH
+P083,Wiring Harness,Pune,Supplier_I,121,12,3,5839.41,10.08,LOW
+P084,ECU Module,Hyderabad,Supplier_A,58,20,13,6597.26,2.9,HIGH
+P085,Parking Sensor,Pune,Supplier_D,246,18,7,6526.33,13.67,LOW
+P086,Reverse Camera,Hyderabad,Supplier_J,245,23,7,9984.47,10.65,LOW
+P087,Seat Belt,Hyderabad,Supplier_I,194,5,6,10036.7,38.8,LOW
+P088,Seat Adjuster,Hyderabad,Supplier_I,113,12,4,2958.42,9.42,LOW
+P089,Fuel Pump,Coimbatore,Supplier_C,250,23,11,8579.67,10.87,LOW
+P090,Fuel Tank,Chennai,Supplier_E,150,14,6,3231.72,10.71,LOW
+P091,Fuel Cap,Hyderabad,Supplier_H,165,20,9,6688.18,8.25,LOW
+P092,Engine Valve,Coimbatore,Supplier_C,140,8,12,1363.45,17.5,LOW
+P093,Camshaft,Pune,Supplier_F,179,18,3,12294.51,9.94,LOW
+P094,Crankshaft,Hyderabad,Supplier_D,182,9,14,3067.04,20.22,LOW
+P095,Flywheel,Bengaluru,Supplier_H,21,2,11,12761.09,10.5,LOW
+P096,Piston,Coimbatore,Supplier_J,126,4,5,10803.35,31.5,LOW
+P097,Connecting Rod,Coimbatore,Supplier_D,136,14,4,9875.26,9.71,LOW
+P098,Engine Chain,Chennai,Supplier_G,238,2,5,2720.71,119.0,LOW
+P099,Suspension Spring,Coimbatore,Supplier_A,142,24,10,3813.05,5.92,MEDIUM
+P100,Strut Mount,Bengaluru,Supplier_H,126,5,12,8013.87,25.2,LOW
+P101,Wheel Hub,Hyderabad,Supplier_H,162,19,11,12243.6,8.53,LOW
