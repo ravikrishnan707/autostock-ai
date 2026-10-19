@@ -33,7 +33,7 @@ The project currently uses synthetic inventory and sales data for development an
 7. Testing, Deployment and Documentation
 
 ### Current Status
-Phase 1 — Foundation and Data Engineering.
+Phase 1 – Foundation and Data Engineering (completed)
 
 ### Author
 RaviKrishnan E
