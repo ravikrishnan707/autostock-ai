@@ -21,7 +21,9 @@ AutoStock AI analyzes automobile spare-parts inventory and historical sales data
 - Git and GitHub
 
 ### Dataset
-The project currently uses synthetic inventory and sales data for development and testing. No real company data is used.
+
+The project uses Python-generated synthetic inventory and sales data, along with a synthetic Kaggle supply-chain dataset, for development, analysis, and testing. No real company data is used.
+
 
 ### Project Roadmap
 1. Foundation and Data Engineering
@@ -37,3 +39,17 @@ Phase 1 – Foundation and Data Engineering (completed)
 
 ### Author
 RaviKrishnan E
+
+
+
+
+### Current Status
+- Phase 1 — Foundation and Data Engineering: Completed.
+- Phase 2 — Data Analysis and Feature Engineering: In progress.
+
+### Next Steps
+- Review feature quality and confirm that forecasting features use only past data.
+- Evaluate a stronger demand-forecasting model against the existing baselines.
+- Find suitable positive stockout labels before training the stockout classifier.
+- Complete Phase 2 validation and update the findings documentation.
+
